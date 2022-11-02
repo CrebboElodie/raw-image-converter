@@ -36,7 +36,7 @@ if f_type == "1":
     file_type = ".TIFF"
 elif f_type == "2":
     file_type = ".JPG"
-    print("Enter quality 1~100 (default = 98)")
+    print("Enter quality 1~100 (eg. 98)")
     quality = input()
 elif f_type == "3":
     file_type = ".PNG"
