@@ -1,5 +1,4 @@
 from curses import raw
-from PIL import Image
 import rawpy
 import imageio
 import os
